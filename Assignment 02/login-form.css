@@ -1,0 +1,29 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+a img{
+    width: 70px;
+    margin: 2px 0px 0px 10px;
+}
+.logo{
+    width: 200px;
+    margin: 2px 530px 0px 530px;
+}
+h1{
+    text-align: center;
+    font-size: 25px;
+}
+.table-form{
+    text-align: left;
+    margin-left: 500px;
+    border-spacing: 30px 20px;
+}
+#btn-container{
+    width:120px;
+    margin: 10px 47% 0px 47%;
+}
+button{
+    padding: 0px 5px;
+}

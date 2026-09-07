@@ -1,0 +1,59 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+h1{
+    text-align: center;
+    margin-top: 50px;
+    font-size: 40px;
+}
+table{
+    margin: auto;
+}
+td{
+    table-layout: fixed;
+    width: 70px;
+    height: 70px;
+    padding: 5px;
+    text-align: center;
+    vertical-align: middle;
+
+}
+    
+.blue{
+    background: linear-gradient(to bottom, #89D6F8, #43A5D2);
+}
+.red{
+    background: linear-gradient(to bottom, #F38587, #D32426);
+}
+.Dark-green{
+    background: linear-gradient(to bottom, #7AC142, #44A741);
+}
+.green{
+    background: linear-gradient(to bottom, #98D1A6, #71C266);
+
+}
+.Light-green{
+    background: linear-gradient(to bottom, #CAE080, #88A62D);
+
+}
+.yellow{
+    background: linear-gradient(to bottom, #FCF591, #CFC715);
+}
+.c-green{
+    background: linear-gradient(to bottom, #9AD7D6, #6ABCB6);
+}
+.purple{
+    background: linear-gradient(to bottom, #A68CC2, #614D90);
+}
+.light-purple{
+    background: linear-gradient(to bottom, #BEBFE0, #7470A2);
+}
+.orange{
+    background: linear-gradient(to bottom, #FDC58D, #E88623);
+}
+
+/* Login-Form */
+
+

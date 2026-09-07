@@ -1,0 +1,17 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+.img-container{
+   width: auto;
+    margin: 5% 450px 0% 450px;
+}
+.link-container{
+    width: 500px;
+    margin: 3% 530px 5% 530px;
+    font-size: 40px;
+}
+img{
+    width: 400px;
+}
